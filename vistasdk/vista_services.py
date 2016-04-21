@@ -1,4 +1,4 @@
-import settings
+from vistasdk import settings
 
 # from .base_client import ServiceBase
 from vistasdk.base_client import ServiceBase

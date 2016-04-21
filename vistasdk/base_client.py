@@ -1,6 +1,9 @@
-import settings
-import requests
 import json
+
+import requests
+
+from vistasdk import settings
+
 
 """
 TODO: prefix (e.g.: /api/v1/) should not be hardcoded
